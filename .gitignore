@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+
+.expo/packager-info.json
+.expo/settings.json
+=======
+/node_modules
+origin/payment_attempt
+.expo/packager-info.json
+node_modules/.cache/@babel/register/.babel.7.4.3.development.json
+package-lock.json
